@@ -1,0 +1,6 @@
+model_checkpoint_path: "/content/gdrive/My Drive/CS182_HW03/models/language_model_4"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/CS182_HW03/models/language_model_0"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/CS182_HW03/models/language_model_1"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/CS182_HW03/models/language_model_2"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/CS182_HW03/models/language_model_3"
+all_model_checkpoint_paths: "/content/gdrive/My Drive/CS182_HW03/models/language_model_4"
